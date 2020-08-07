@@ -70,11 +70,6 @@ cat $HOME/.ssh/id_lxc_$lxcname.pub
 
 
 echo "#"
-echo "# Current status of LXC list:"
-lxc list
-
-
-
 echo "#"
 echo "# START - Info of LXC: ${lxcname}"
 
